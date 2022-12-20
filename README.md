@@ -26,8 +26,6 @@ Para rodar este software na sua maquina terá que instalar o netbeans e ter o My
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
 * **Desenvolvedor do projeto** - *FullStack* - [Leandro Ucuamba](https://github.com/LeandroUcuamba)
 
 
